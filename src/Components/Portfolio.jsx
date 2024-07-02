@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/BG3.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Snippet from my Github Account";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Learning Management System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Developed a Learning Management System for a university project. It includes features like course management, user management, and quiz management.",
+    url: "https://github.com/Yashasvi-30/Learning-Management-System-",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Myntra Clone",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed a Myntra Clone for a university project. It includes features like product management, user management, and cart management.",
+    url: "https://github.com/Yashasvi-30/MyMyntraClone",
   },
   {
-    title: "My Resume Site",
+    title: "Amazon Clone",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      " Developed an Amazon Clone for a university project. It includes features like product management, user management, and cart management.",
+    url: "https://github.com/Yashasvi-30/AmazonClone",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Supermarket Management System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed a Supermarket Management System for a university project. It includes features like product management, user management, and cart management.",
+    url: "https://github.com/Yashasvi-30/Supermarket-JAVA-Proj",
   },
 ];
 
